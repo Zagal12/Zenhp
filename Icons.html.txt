@@ -1,0 +1,62 @@
+<html>
+<head>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">  
+  
+  href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css" 
+  rel="stylesheet"  type='text/css'>
+  
+  </head>
+<body>
+   <section class="header">
+   
+  <i class="fa fa-times" onclick="hideMenu()"></i>
+   <i class="fa fa-bars" onclick="showMenu()"></i>
+   
+   <!------ testimonials ----->
+    <div class="testimonials-col">
+    
+                        <i class="fa fa-star"></i>
+                     <i class="fa fa-star"></i>
+                     <i class="fa fa-star"></i>
+                     <i class="fa fa-star"></i>
+                     <i class="fa fa-star-o"></i>
+                     
+                     </div>
+                     
+  <div class="testimonials-col">  
+                       <i class="fa fa-star"></i>
+                     <i class="fa fa-star"></i>
+                     <i class="fa fa-star"></i>
+                     <i class="fa fa-star"></i>
+                     <i class="fa fa-star-half-o"></i>
+                     
+                     </div>
+                     
+   <!------ Footer ------>  
+   <section class="footer">
+   
+    <div class="icons">
+          <i class="fa fa-facebook"></i>
+          <i class="fa fa-twitter"></i>
+          <i class="fa fa-instagram"></i>
+          <i class="fa fa-linkedin"></i>
+      </div>
+       <p>Made with <i class="fa fa-heart-o"></i>' by Easy Tutorials</p>
+       
+<!------ Contact Us -------->
+<section class="location">
+
+<div>
+                  <i class="fa fa-home"></i
+                  
+                  </div>
+<div>
+                  <i class="fa fa-phone"></i>
+                  
+                  </div>
+                  
+<div>
+                  <i class="fa fa-envelope-o"></i>
+                  
+                  </div>
