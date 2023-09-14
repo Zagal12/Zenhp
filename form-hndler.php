@@ -4,7 +4,7 @@ $visitor_email = $_post['email'];
 $subject = $_post['subject'];
 $message= $_post['message'];
 
-$email_form = 'info@yourwebsite.com';
+$email_form = 'https://zagal12.github.io/Zenhp/';
 
 $email_subject = 'new form submission';
 
